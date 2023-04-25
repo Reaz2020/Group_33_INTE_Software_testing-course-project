@@ -1,4 +1,4 @@
-# G33_INTE
+# G33_INTE , GROUP PROJECT HT2020 SU
 
 Folder G33RGL contains the maven Pom.xml and the correct file/direcotry pathing for it to work properly on cmd.
 
